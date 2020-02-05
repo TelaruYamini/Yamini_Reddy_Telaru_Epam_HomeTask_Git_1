@@ -1,0 +1,209 @@
+Temparature,Humidity ,Moisture,Soil_Type,Crop_Type,Nitrogen,Potassium,Phosphorous,Fertilizer_Name,Rainfall,Duration,Crop_Production
+26,52,38,Sandy,Maize,37,0,0,Urea,moderate,3,high
+29,52,45,Loamy,Sugarcane,12,0,36,DAP,high,15,high
+34,65,62,Black,Cotton,7,9,30,Ammonium Nitrate,moderate,6,high
+32,62,34,Red,Tobacco,22,0,20,Ammonium Sulfate,moderate,4,high
+28,54,46,Clayey,Paddy,35,0,0,Urea,high,5,high
+26,52,35,Sandy,Barley,12,10,13,DAP,low,2,high
+25,50,64,Red,Cotton,9,0,10,Calcium Nitrate,moderate,5,high
+33,64,50,Loamy,Wheat,41,0,0,Urea,moderate,4,high
+30,60,42,Sandy,Millets,21,0,18,Ammonium Sulfate,low,2,high
+29,58,33,Black,Oil seeds,9,7,30,Ammonium Nitrate,moderate,3,high
+27,54,28,Clayey,Pulses,13,0,40,DAP,low,4,high
+31,62,48,Sandy,Maize,14,15,12,DAP,moderate,3,high
+25,50,65,Loamy,Cotton,36,0,0,Urea,moderate,6,high
+32,62,41,Clayey,Paddy,24,0,22,Ammonium Sulfate,high,5,high
+26,52,31,Red,Ground Nuts,14,0,41,DAP,moderate,3,high
+31,62,49,Black,Sugarcane,10,13,14,DAP,high,15,high
+33,64,34,Clayey,Pulses,38,0,0,Urea,low,4,high
+25,50,39,Sandy,Barley,21,0,19,Ammonium Sulfate,low,2,high
+28,54,65,Black,Cotton,39,0,0,Urea,moderate,5,high
+29,58,52,Loamy,Wheat,13,0,36,DAP,moderate,4,high
+30,60,44,Sandy,Millets,10,0,9,Calcium Nitrate,high,18,high
+34,65,53,Loamy,Sugarcane,12,14,12,DAP,low,3,high
+35,68,33,Red,Tobacco,11,0,37,DAP,low,4,high
+28,54,37,Black,Millets,36,0,0,Urea,high,5,high
+33,64,39,Clayey,Paddy,13,0,10,Calcium Nitrate,low,3,high
+26,52,44,Sandy,Maize,23,0,20,Ammonium Sulfate,low,5,high
+30,60,63,Red,Cotton,9,9,29,Ammonium Nitrate,high,18,high
+32,62,30,Loamy,Sugarcane,38,0,0,Urea,moderate,3,high
+37,70,32,Black,Oil seeds,12,0,39,DAP,low,4,high
+26,52,36,Clayey,Pulses,14,0,13,Calcium Nitrate,moderate,3,high
+29,58,40,Red,Ground Nuts,24,0,23,Ammonium Sulfate,high,18,high
+30,60,27,Loamy,Sugarcane,12,0,40,DAP,high,5,high
+34,65,38,Clayey,Paddy,39,0,0,Urea,low,5,high
+36,68,38,Sandy,Barley,7,9,30,Ammonium Nitrate,high,5,high
+26,52,48,Loamy,Wheat,23,0,19,Ammonium Sulfate,moderate,4,high
+28,54,35,Black,Millets,41,0,0,Urea,moderate,6,high
+30,60,61,Loamy,Cotton,8,10,31,Ammonium Nitrate,moderate,4,high
+37,70,37,Clayey,Paddy,12,0,41,DAP,moderate,3,high
+25,50,26,Red,Ground Nuts,15,14,11,DAP,high,18,high
+29,58,34,Sandy,Millets,15,0,37,DAP,low,1,high
+27,54,30,Clayey,Pulses,13,0,13,Calcium Nitrate,moderate,3,high
+30,60,58,Loamy,Sugarcane,10,7,32,Ammonium Nitrate,high,3,high
+32,62,34,Red,Tobacco,22,0,24,Ammonium Sulfate,moderate,16,high
+34,65,60,Black,Sugarcane,35,0,0,Urea,high,1,high
+35,67,42,Sandy,Barley,10,0,35,DAP,low,5,high
+38,70,48,Loamy,Wheat,8,8,28,Ammonium Nitrate,moderate,3,high
+26,52,32,Black,Oil seeds,12,0,8,Calcium Nitrate,moderate,6,high
+29,58,43,Clayey,Paddy,24,0,18,Ammonium Sulfate,moderate,5,high
+30,60,29,Red,Ground Nuts,41,0,0,Urea,low,3,high
+33,64,51,Sandy,Maize,5,9,29,Ammonium Nitrate,moderate,1,high
+34,65,31,Red,Tobacco,23,0,21,Ammonium Sulfate,moderate,3,high
+36,68,33,Black,Oil seeds,13,0,14,Calcium Nitrate,low,4,high
+28,54,38,Clayey,Pulses,40,0,0,Urea,low,1,high
+30,60,47,Sandy,Barley,12,0,42,DAP,low,5,high
+31,62,63,Red,Cotton,11,12,15,DAP,high,3,high
+27,53,43,Black,Millets,23,0,24,Ammonium Sulfate,low,4,high
+34,65,54,Loamy,Wheat,38,0,0,Urea,moderate,1,high
+29,58,37,Sandy,Millets,8,0,15,Calcium Nitrate,low,5,high
+25,50,56,Loamy,Sugarcane,11,13,15,DAP,high,3,high
+32,62,34,Red,Ground Nuts,15,0,37,DAP,high,5,high
+28,54,41,Clayey,Paddy,36,0,0,Urea,high,4,high
+30,60,49,Loamy,Wheat,13,0,9,Calcium Nitrate,moderate,4,high
+34,65,64,Black,Cotton,24,0,20,Ammonium Sulfate,moderate,2,high
+28,54,47,Sandy,Barley,5,18,15,Monoammonium phosphate,low,4,high
+27,53,35,Black,Oil seeds,37,0,0,Urea,moderate,4,high
+36,68,62,Red,Cotton,15,0,40,DAP,moderate,18,high
+34,65,57,Black,Sugarcane,9,0,13,Calcium Nitrate,high,18,high
+29,58,55,Loamy,Sugarcane,8,8,33,Ammonium Nitrate,high,4,high
+25,50,40,Clayey,Pulses,6,19,16,Monoammonium phosphate,low,4,high
+30,60,38,Sandy,Millets,10,0,14,Calcium Nitrate,low,4,high
+26,52,39,Clayey,Pulses,21,0,23,Ammonium Sulfate,low,3,high
+31,62,32,Red,Tobacco,39,0,0,Urea,moderate,4,high
+34,65,48,Loamy,Wheat,23,0,19,Ammonium Sulfate,moderate,4,high
+27,53,34,Black,Oil seeds,42,0,0,Urea,moderate,3,high
+33,64,31,Red,Ground Nuts,13,0,39,DAP,high,5,high
+29,58,42,Clayey,Paddy,9,10,22,Ammonium Nitrate,high,5,high
+30,60,47,Sandy,Maize,22,0,21,Ammonium Sulfate,high,18,high
+27,53,59,Loamy,Sugarcane,10,0,15,Calcium Nitrate,high,4,high
+26,52,36,Clayey,Pulses,7,16,20,Monoammonium phosphate,low,5,high
+34,65,63,Red,Cotton,14,0,38,DAP,low,4,high
+28,54,43,Clayey,Paddy,10,8,29,Ammonium Nitrate,moderate,5,high
+30,60,40,Sandy,Millets,41,0,0,Urea,high,3,high
+29,58,65,Black,Cotton,14,0,35,DAP,low,4,high
+26,52,59,Loamy,Sugarcane,11,0,9,Calcium Nitrate,moderate,13,high
+31,62,44,Sandy,Barley,21,0,28,Ammonium Sulfate,high,2,high
+35,67,28,Clayey,Pulses,8,7,31,Ammonium Nitrate,low,5,high
+29,58,30,Red,Tobacco,13,17,16,Monoammonium phosphate,low,3,high
+27,53,30,Black,Millets,35,0,0,Urea,moderate,3,high
+36,68,50,Loamy,Wheat,12,18,19,Monoammonium phosphate,low,4,high
+29,58,61,Loamy,Cotton,11,0,38,DAP,moderate,4,high
+30,60,26,Black,Oil seeds,8,9,30,Ammonium Nitrate,moderate,1,high
+34,65,45,Clayey,Paddy,6,19,21,Monoammonium phosphate,moderate,5,high
+36,68,41,Red,Ground Nuts,41,0,0,Urea,high,2,high
+28,54,25,Sandy,Maize,9,10,30,Ammonium Nitrate,moderate,4,high
+25,50,32,Clayey,Pulses,24,0,19,Ammonium Sulfate,high,5,high
+30,60,27,Red,Tobacco,4,17,17,Monoammonium phosphate,low,3,high
+38,72,51,Loamy,Wheat,39,0,0,Urea,moderate,4,high
+36,60,43,Sandy,Millets,15,0,41,DAP,moderate,3,high
+29,58,57,Black,Sugarcane,12,0,10,Calcium Nitrate,low,9,high
+25,95,20,Loamy,tea,3,1,30,Urea,high,12,high
+20,70,12,alluvial,coffee,2,3,5,DAP,high,2,high
+32,70,50,alluvial,black pepper,14,17,17,DAP,high,15,high
+27,50,60,alluvial,rubber,20,0,12,Urea,high,48,high
+30,20,30,alluvial,clove,30,80,89,Urea,high,3,high
+26,52,38,Sandy,Maize,37,0,0,Urea,moderate,15,low
+45,52,45,Loamy,Sugarcane,12,0,36,DAP,high,6,low
+34,23,62,Black,Cotton,7,9,30,Ammonium Nitrate,moderate,4,low
+32,21,34,Red,Tobacco,22,0,20,Ammonium Sulfate,moderate,5,low
+24,54,46,Clayey,Paddy,35,0,0,Urea,high,2,low
+23,52,35,Sandy,Barley,12,10,13,DAP,low,5,low
+25,50,64,Red,Cotton,9,0,10,Calcium Nitrate,moderate,4,low
+33,64,50,Loamy,Wheat,2,0,0,Urea,moderate,2,low
+30,60,42,Sandy,Millets,23,0,18,Ammonium Sulfate,low,3,low
+29,58,33,Black,Oil seeds,34,7,30,Ammonium Nitrate,moderate,4,low
+27,54,28,Clayey,Pulses,34,0,40,DAP,low,3,low
+31,62,48,Sandy,Maize,1,15,12,DAP,moderate,6,low
+25,50,65,Loamy,Cotton,2,0,0,Urea,moderate,5,low
+32,62,41,Clayey,Paddy,2,0,22,Ammonium Sulfate,high,3,low
+26,52,31,Red,Ground Nuts,34,0,41,DAP,moderate,15,low
+31,62,49,Black,Sugarcane,32,13,14,DAP,high,4,low
+33,64,34,Clayey,Pulses,33,66,0,Urea,low,2,low
+25,50,39,Sandy,Barley,21,44,19,Ammonium Sulfate,low,5,low
+28,54,65,Black,Cotton,39,34,0,Urea,moderate,4,low
+29,58,52,Loamy,Wheat,13,43,36,DAP,moderate,18,low
+30,60,44,Sandy,Millets,10,34,9,Calcium Nitrate,high,3,low
+34,65,53,Loamy,Sugarcane,12,14,98,DAP,low,4,low
+35,68,33,Red,Tobacco,11,34,37,DAP,low,5,low
+28,54,37,Black,Millets,36,34,0,Urea,high,3,low
+33,64,39,Clayey,Paddy,13,65,10,Calcium Nitrate,low,5,low
+26,52,44,Sandy,Maize,23,34,20,Ammonium Sulfate,low,18,low
+30,60,63,Red,Cotton,9,43,29,Ammonium Nitrate,high,3,low
+32,62,30,Loamy,Sugarcane,38,44,0,Urea,moderate,4,low
+37,70,32,Black,Oil seeds,12,44,39,DAP,low,3,low
+26,52,36,Clayey,Pulses,14,65,13,Calcium Nitrate,moderate,18,low
+29,58,40,Red,Ground Nuts,24,87,23,Ammonium Sulfate,high,5,low
+30,60,27,Loamy,Sugarcane,12,56,40,DAP,high,5,low
+34,65,38,Clayey,Paddy,39,76,0,Urea,low,5,low
+36,68,38,Sandy,Barley,7,89,30,Ammonium Nitrate,high,4,low
+26,52,48,Loamy,Wheat,23,54,19,Ammonium Sulfate,moderate,6,low
+28,54,35,Black,Millets,41,87,0,Urea,moderate,4,low
+30,60,61,Loamy,Cotton,8,67,31,Ammonium Nitrate,moderate,3,low
+37,70,37,Clayey,Paddy,12,65,41,DAP,moderate,18,low
+25,50,26,Red,Ground Nuts,15,45,11,DAP,high,1,low
+29,58,34,Sandy,Millets,15,55,37,DAP,low,3,low
+27,54,30,Clayey,Pulses,13,66,13,Calcium Nitrate,moderate,3,low
+30,60,58,Loamy,Sugarcane,10,76,32,Ammonium Nitrate,high,16,low
+32,62,34,Red,Tobacco,22,54,24,Ammonium Sulfate,moderate,1,low
+34,65,60,Black,Sugarcane,35,54,0,Urea,high,5,low
+35,67,42,Sandy,Barley,10,56,35,DAP,low,3,low
+38,70,48,Loamy,Wheat,8,67,28,Ammonium Nitrate,moderate,6,low
+26,52,32,Black,Oil seeds,12,67,8,Calcium Nitrate,moderate,5,low
+29,58,43,Clayey,Paddy,24,67,18,Ammonium Sulfate,moderate,3,low
+30,60,29,Red,Ground Nuts,41,67,0,Urea,low,1,low
+33,64,51,Sandy,Maize,5,77,29,Ammonium Nitrate,moderate,3,low
+34,65,31,Red,Tobacco,23,66,21,Ammonium Sulfate,moderate,4,low
+36,68,33,Black,Oil seeds,13,56,14,Calcium Nitrate,low,1,low
+28,54,38,Clayey,Pulses,40,54,0,Urea,low,5,low
+30,60,47,Sandy,Barley,12,89,42,DAP,low,3,low
+31,62,63,Red,Cotton,54,12,15,DAP,high,4,low
+27,53,43,Black,Millets,23,46,24,Ammonium Sulfate,low,1,low
+34,65,54,Loamy,Wheat,38,65,0,Urea,moderate,5,low
+29,58,37,Sandy,Millets,8,54,15,Calcium Nitrate,low,3,low
+25,50,56,Loamy,Sugarcane,11,54,15,DAP,high,5,low
+32,62,34,Red,Ground Nuts,15,54,37,DAP,high,4,low
+28,54,41,Clayey,Paddy,36,98,0,Urea,high,4,low
+30,60,49,Loamy,Wheat,13,67,9,Calcium Nitrate,moderate,2,low
+34,65,64,Black,Cotton,24,45,20,Ammonium Sulfate,moderate,4,low
+28,54,47,Sandy,Barley,5,45,15,Monoammonium phosphate,low,4,low
+27,53,35,Black,Oil seeds,37,54,0,Urea,moderate,18,low
+36,68,62,Red,Cotton,15,55,40,DAP,moderate,18,low
+34,65,57,Black,Sugarcane,9,53,13,Calcium Nitrate,high,4,low
+29,58,55,Loamy,Sugarcane,8,53,33,Ammonium Nitrate,high,4,low
+25,50,40,Clayey,Pulses,6,54,16,Monoammonium phosphate,low,4,low
+30,60,38,Sandy,Millets,10,54,14,Calcium Nitrate,low,3,low
+26,52,39,Clayey,Pulses,21,54,23,Ammonium Sulfate,low,4,low
+31,62,32,Red,Tobacco,39,67,0,Urea,moderate,4,low
+34,65,48,Loamy,Wheat,23,89,19,Ammonium Sulfate,moderate,3,low
+27,53,34,Black,Oil seeds,42,89,0,Urea,moderate,5,low
+33,64,31,Red,Ground Nuts,13,78,39,DAP,high,5,low
+29,58,42,Clayey,Paddy,9,78,22,Ammonium Nitrate,high,18,low
+30,60,47,Sandy,Maize,22,88,21,Ammonium Sulfate,high,4,low
+27,53,59,Loamy,Sugarcane,10,78,15,Calcium Nitrate,high,5,low
+26,52,36,Clayey,Pulses,45,16,20,Monoammonium phosphate,low,4,low
+34,65,63,Red,Cotton,14,68,38,DAP,low,5,low
+28,54,43,Clayey,Paddy,10,54,29,Ammonium Nitrate,moderate,3,low
+30,60,40,Sandy,Millets,41,77,0,Urea,high,4,low
+29,58,65,Black,Cotton,14,76,35,DAP,low,13,low
+26,52,59,Loamy,Sugarcane,11,76,9,Calcium Nitrate,moderate,2,low
+31,62,44,Sandy,Barley,21,76,28,Ammonium Sulfate,high,5,low
+35,67,28,Clayey,Pulses,8,76,31,Ammonium Nitrate,low,3,low
+29,58,30,Red,Tobacco,13,67,16,Monoammonium phosphate,low,3,low
+27,53,30,Black,Millets,35,78,0,Urea,moderate,4,low
+36,68,50,Loamy,Wheat,12,78,19,Monoammonium phosphate,low,4,low
+29,58,61,Loamy,Cotton,11,76,38,DAP,moderate,1,low
+30,60,26,Black,Oil seeds,8,76,30,Ammonium Nitrate,moderate,5,low
+34,65,45,Clayey,Paddy,6,19,21,Monoammonium phosphate,moderate,2,low
+36,68,41,Red,Ground Nuts,41,75,0,Urea,high,4,low
+28,54,25,Sandy,Maize,9,78,30,Ammonium Nitrate,moderate,5,low
+25,50,32,Clayey,Pulses,24,44,19,Ammonium Sulfate,high,3,low
+30,60,27,Red,Tobacco,4,43,17,Monoammonium phosphate,low,4,low
+38,72,51,Loamy,Wheat,39,34,0,Urea,moderate,3,low
+36,60,43,Sandy,Millets,15,43,41,DAP,moderate,9,low
+29,58,57,Black,Sugarcane,12,43,10,Calcium Nitrate,low,12,low
+25,95,20,Loamy,tea,3,43,30,Urea,high,2,low
+20,70,12,alluvial,coffee,2,43,5,DAP,high,15,low
+32,70,50,alluvial,black pepper,14,78,17,DAP,high,48,low
+27,50,60,alluvial,rubber,20,76,12,Urea,high,3,low
+30,20,30,alluvial,clove,30,80,1,Urea,high,4,low
